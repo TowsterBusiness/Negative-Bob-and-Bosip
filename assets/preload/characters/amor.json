@@ -1,0 +1,76 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-133,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Amor Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-70,
+				156
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Amor Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-114,
+				172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Amor Sing Note UP"
+		},
+		{
+			"offsets": [
+				-126,
+				141
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Amor Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-114,
+				138
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Amor idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extra/amor_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "amor",
+	"flip_x": false,
+	"healthbar_colors": "FFd73c92",
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"note_skin": "amor",
+	"christmas": false
+}

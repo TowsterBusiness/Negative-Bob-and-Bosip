@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_Screen_Bob_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="negative bob dancing beat0000" x="0" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0001" x="0" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0002" x="756" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0003" x="756" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0004" x="1512" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0005" x="1512" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0006" x="2268" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0007" x="2268" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0008" x="3024" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0009" x="3024" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0010" x="3024" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0011" x="3024" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0012" x="3024" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0013" x="3024" y="0" width="732" height="1052"/>
+	<SubTexture name="negative bob dancing beat0014" x="3024" y="0" width="732" height="1052"/>
+</TextureAtlas>

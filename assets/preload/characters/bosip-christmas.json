@@ -1,0 +1,76 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				163
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Bosip idle dance"
+		},
+		{
+			"offsets": [
+				70,
+				182
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Bosip Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-23,
+				142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Bosip Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-32,
+				197
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Bosip Sing Note UP"
+		},
+		{
+			"offsets": [
+				-42,
+				149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Bosip Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extra/bosip_assets_christmas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bosip",
+	"flip_x": false,
+	"healthbar_colors": "FFfdd173",
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"note_skin": "bosip",
+	"christmas": true
+}

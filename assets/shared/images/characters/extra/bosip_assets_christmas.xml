@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bosip_ assets_christmas.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bosip Sing Note DOWN0000" x="0" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0001" x="402" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0002" x="804" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0003" x="1206" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0004" x="1608" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0005" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0006" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0007" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0008" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0009" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0010" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0011" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0012" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0013" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0014" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note DOWN0015" x="2010" y="0" width="402" height="789"/>
+	<SubTexture name="Bosip Sing Note LEFT0000" x="2412" y="0" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0001" x="2919" y="0" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0002" x="3426" y="0" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0003" x="0" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0004" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0005" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0006" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0007" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0008" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0009" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0010" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0011" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0012" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0013" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0014" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0015" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0016" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0017" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note LEFT0018" x="507" y="832" width="507" height="832"/>
+	<SubTexture name="Bosip Sing Note RIGHT0000" x="1014" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0001" x="1368" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0002" x="1722" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0003" x="2076" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0004" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0005" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0006" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0007" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0008" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0009" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0010" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0011" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0012" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0013" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0014" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note RIGHT0015" x="2430" y="832" width="354" height="796"/>
+	<SubTexture name="Bosip Sing Note UP0000" x="2784" y="832" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0001" x="3207" y="832" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0002" x="3630" y="832" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0003" x="0" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0004" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0005" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0006" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0007" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0008" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0009" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0010" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0011" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0012" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0013" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0014" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0015" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0016" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0017" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0018" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0019" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0020" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0021" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0022" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0023" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0024" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0025" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0026" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0027" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0028" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0029" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0030" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0031" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0032" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0033" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0034" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0035" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0036" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0037" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0038" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0039" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0040" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0041" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0042" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0043" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0044" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0045" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0046" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0047" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0048" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0049" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0050" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0051" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0052" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0053" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0054" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0055" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0056" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0057" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0058" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip Sing Note UP0059" x="423" y="1681" width="423" height="849"/>
+	<SubTexture name="Bosip idle dance0000" x="846" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0001" x="1234" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0002" x="1622" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0003" x="2010" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0004" x="2398" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0005" x="2786" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0006" x="3174" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0007" x="3562" y="1681" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0008" x="0" y="2530" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0009" x="388" y="2530" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0010" x="776" y="2530" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0011" x="1164" y="2530" width="388" height="839"/>
+	<SubTexture name="Bosip idle dance0012" x="1552" y="2530" width="388" height="839"/>
+</TextureAtlas>

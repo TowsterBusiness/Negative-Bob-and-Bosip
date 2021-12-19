@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_Screen_Bosip_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="negative bosip dancing beat0000" x="0" y="0" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0001" x="0" y="0" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0002" x="1075" y="0" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0003" x="1075" y="0" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0004" x="2150" y="0" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0005" x="2150" y="0" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0006" x="0" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0007" x="0" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0008" x="1075" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0009" x="1075" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0010" x="1075" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0011" x="1075" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0012" x="1075" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0013" x="1075" y="1231" width="1051" height="1207"/>
+	<SubTexture name="negative bosip dancing beat0014" x="1075" y="1231" width="1051" height="1207"/>
+</TextureAtlas>
